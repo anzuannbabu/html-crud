@@ -3,4 +3,4 @@ This is HTML CRUD Generator for rapid application design, created using node js 
 
 
 # Install 
-npm install -g html-crud
+clone project
