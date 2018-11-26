@@ -2,6 +2,9 @@
 This is HTML CRUD Generator for rapid application design, created using node js based on Command LIne Interface
 This is built on top of Bootstrap to support faster web ui development
 
+# Version
+1.0.0
+
 # Install 
   clone project
   go to the project folder
@@ -19,3 +22,8 @@ This is built on top of Bootstrap to support faster web ui development
   The form fields shoulbe in json format
   example [{"name":"Full Name","type":"text"},{"name":"Email","type":"email"},{"name":"Description","type":"textarea"}]
   if you didn't specify the type of the field it will automatic generate the text field
+
+
+# Licence
+The licence for the prject is  MIT,
+Fre to use , modify and redistribute
