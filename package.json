@@ -36,11 +36,11 @@
   "crudConfig": {
     "template": {
       "name": "sample",
-      "path": "C:\\Users\\ega-Nassor\\Desktop\\projects\\ega projects\\2018\\may\\ewuracap-html\\app\\pages",
+      "path": "template\\path",
       "contentSectionName": "{app.template.content}",
       "buttonSectionName": "{app.template.button}",
       "titleSectionName": "{app.template.title}"
     },
-    "destination": "C:\\Users\\ega-Nassor\\Desktop\\projects\\ega projects\\2018\\may\\ewuracap-html\\app\\pages"
+    "destination": "destination\\path"
   }
 }
